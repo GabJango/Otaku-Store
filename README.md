@@ -13,3 +13,5 @@ Repositório contendo a aplicação e documentação, artefatos gerados durante 
 
 ## Objetivos
 * Consumir Web Services REST usando os serviços Http e HttpClient
+
+Veja a aplicação em https://github.com/GabJango/OtakuStoreApp
