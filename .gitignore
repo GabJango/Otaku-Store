@@ -1,9 +1,5 @@
 # Don't track content of these folders
-node_modules/
 lixo/
-<<<<<<< HEAD
-=======
-ajuda_commandos/
 
 >>>>>>> 6acdb43678f9e60e77f397c039d8efbc2be135d8
 
