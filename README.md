@@ -4,6 +4,12 @@ Repositório contendo a aplicação e documentação, artefatos gerados durante 
 
 ***
 
+# Link da aplicação
+[Otaku Store](https://otakustore.mybluemix.net/)
+
+# Source code
+https://github.com/GabJango/OtakuStoreApp
+
 ## Tecnologias utilizadas
 * TypeScript
 * Angular 8
@@ -14,4 +20,4 @@ Repositório contendo a aplicação e documentação, artefatos gerados durante 
 ## Objetivos
 * Consumir Web Services REST usando os serviços Http e HttpClient
 
-Veja a aplicação em https://github.com/GabJango/OtakuStoreApp
+
